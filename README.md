@@ -30,6 +30,14 @@ Some Examples of RESTful routes below!
 <br>
 &nbsp; Post Route Example -
 <img src="https://imgur.com/Lia1Bsv.png" />
+<br>
+<br>
+&nbsp; Put Route Example -
+<img src="https://imgur.com/XZSZ2UX.png" />
+<br>
+<br>
+&nbsp; Delete Route Example -
+<img src="https://imgur.com/y5Vsbwn.png" />
 
 
 ## Usage <a name="Usage"></a>
