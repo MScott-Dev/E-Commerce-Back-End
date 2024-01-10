@@ -17,7 +17,7 @@ A mySQl database with RESTful routes!
 
 
 ## Description <a name="Description"></a>
-<img src="https://imgur.com/E2a5wJf.png" /> <br>
+<img src="https://imgur.com/E2a5wJf.png" alt="Picture of a Get request" /> <br>
 A database made using mySQL and sequelize which can be interacted with using RESTful routes. 
 <br>
 <br>
@@ -29,26 +29,58 @@ Some Examples of RESTful routes below!
 <br>
 <br>
 &nbsp; Post Route Example -
-<img src="https://imgur.com/Lia1Bsv.png" />
+
+<img src="https://imgur.com/Lia1Bsv.png" /> <br>
+
+&nbsp;&nbsp;&nbsp;***Category Post body example*** <br>
+<img alt="Sample JSON body" src="https://imgur.com/s9SxjPZ.png?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="350" height="250" border="10"/>
+
+&nbsp;&nbsp;&nbsp;***Product Post body example*** <br>
+<img src="https://imgur.com/78TfFAP.png?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="350" height="250" border="10"/>
+
+&nbsp;&nbsp;&nbsp;***Tag Post body example** <br>
+<img alt="Sample JSON body" src="https://imgur.com/9yQiHVE.png?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="350" height="250" border="10"/>
+<br>
+<br>
+&nbsp; Put Route Example -
+<img alt="Sample JSON body" src="https://imgur.com/XZSZ2UX.png" />
+<br>
+<br>
+&nbsp; Delete Route Example -
+<img src="https://imgur.com/y5Vsbwn.png" /> 
+
 
 
 ## Usage <a name="Usage"></a>
 This simulates the backend database of an e-commerce website! Muiltple RESTful routes can we used to fetch data. 
 
 ## Dependencies <a name="Dependencies"></a>
+* Internet
+* MySQL2
+* Sequelize
+* Dotenv
+* Express
+* NodeJS
+* Insomnia
+* This repo
 
-<a href="FakeURL" alt="WeatherApp">A link to the webpage</a>
 
 ## Installing <a name="Installing"></a>
+* Fork this repo onto your local system
 
 
 ## Contributing <a name="Contributing"></a>
-
-
-## Tests <a name="Tests"></a>
-
+If you think you can improve this project, Send me a message! *info at the bottom* <br>
+You could also open a pull request and I'll take a look at it!
 
 ## Executing program <a name="Executing"></a>
+2. Fill out the .env file
+3. Sign into MySQL
+4. Run *SOURCE db/schema.sql* then exit MySQL
+5. Run npm i
+6. Run npm run seed
+7. Run npm run watch
+8. Open Insomnia and you're all set to make requests! *Post request example JSON bodies can be found in description*
 
 
 ## Authors <a name="Authors"></a>
