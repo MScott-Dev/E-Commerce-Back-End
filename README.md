@@ -29,7 +29,17 @@ Some Examples of RESTful routes below!
 <br>
 <br>
 &nbsp; Post Route Example -
-<img src="https://imgur.com/Lia1Bsv.png" />
+
+<img src="https://imgur.com/Lia1Bsv.png" /> <br>
+
+&nbsp;&nbsp;&nbsp;***Category Post body example*** <br>
+<img src="https://imgur.com/s9SxjPZ.png?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="350" height="250" border="10"/>
+
+&nbsp;&nbsp;&nbsp;***Product Post body example*** <br>
+<img src="https://imgur.com/78TfFAP.png?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="350" height="250" border="10"/>
+
+&nbsp;&nbsp;&nbsp;***Tag Post body example** <br>
+<img src="https://imgur.com/9yQiHVE.png?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="350" height="250" border="10"/>
 <br>
 <br>
 &nbsp; Put Route Example -
@@ -37,7 +47,8 @@ Some Examples of RESTful routes below!
 <br>
 <br>
 &nbsp; Delete Route Example -
-<img src="https://imgur.com/y5Vsbwn.png" />
+<img src="https://imgur.com/y5Vsbwn.png" /> 
+
 
 
 ## Usage <a name="Usage"></a>
