@@ -17,14 +17,23 @@ A mySQl database with RESTful routes!
 
 
 ## Description <a name="Description"></a>
-![Image of the webpage](https://placehold.co/600x400.png) <br>
+<img src="https://imgur.com/E2a5wJf.png" /> <br>
 A database made using mySQL and sequelize which can be interacted with using RESTful routes. 
-
-
+<br>
+<br>
+Some Examples of RESTful routes below!
+<br>
+<br>
+&nbsp; Get Route Example -
+<img src="https://imgur.com/8BwqAnI.png" />
+<br>
+<br>
+&nbsp; Post Route Example -
+<img src="https://imgur.com/Lia1Bsv.png" />
 
 
 ## Usage <a name="Usage"></a>
-
+This simulates the backend database of an e-commerce website! Muiltple RESTful routes can we used to fetch data. 
 
 ## Dependencies <a name="Dependencies"></a>
 
