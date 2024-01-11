@@ -67,6 +67,7 @@ This simulates the backend database of an e-commerce website! Muiltple RESTful r
 
 ## Installing <a name="Installing"></a>
 * Fork this repo onto your local system
+* <a href="https://drive.google.com/file/d/12mCtQ04KGX9NQDKT4xaS4CNLo0MWACeQ/view"> Video link on installing and running! </a>
 
 
 ## Contributing <a name="Contributing"></a>
